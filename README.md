@@ -81,5 +81,6 @@ Vous voulez en savoir plus ? [Ça se passe sur Feldrise](https://feldrise.com) �
 </a>
 
 <br>
+<br>
 
 > [Un merci à Braydon Coyer pour son super tuto et sa super template de profil ! 😉](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1)
