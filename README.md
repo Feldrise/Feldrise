@@ -50,8 +50,8 @@ Vous voulez en savoir plus ? [Ã‡a se passe sur Feldrise](https://feldrise.com) ð
 
 <br>
 
-<a href="https://github.com/feldrise/feldrise-site">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=feldrise&repo=feldrise-site&title_color=ffffff&text_color=c9cacc&icon_color=aa33ff&bg_color=1f1f1f" />
+<a href="https://github.com/feldrise/feldrise-site-qwik">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=feldrise&repo=feldrise-site-qwik&title_color=ffffff&text_color=c9cacc&icon_color=aa33ff&bg_color=1f1f1f" />
 </a>
 
 <br>
